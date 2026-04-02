@@ -1,4 +1,4 @@
-# LLRP I — Field Monitoring Dashboard
+# LLRP II — Field Monitoring Dashboard
 
 **Project:** Making Groups Work for Women in Pastoral Communities  
 **Org:** C4ED / World Bank · LLRP II · Somali Region, Ethiopia  
@@ -107,11 +107,11 @@ A Power BI data file (`LLRP_PowerBI_Data.xlsx`) is also provided with 6 clean fl
 
 ## 📅 Data as of this version
 
-- **Date:** 31-Mar-2026
-- **MSEs listed:** 83 / 360 (23.1%)
-- **Woredas started:** 10 / 36
-- **Members listed:** 950
-- **Spouse targets identified:** 94
+- **Date:** 02-Apr-2026
+- **MSEs listed:** 114 / 360 (31.7%)
+- **Woredas started:** 14 / 36
+- **Members listed:** 1,322
+- **Spouse targets identified:** 127
 
 ---
 
